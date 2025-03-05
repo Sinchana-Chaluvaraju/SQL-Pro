@@ -1,2 +1,4 @@
 # SQL-Pro
-📁 sql-data-analysis      ├── 🛍 customer-purchase-analysis      ├── 💳 customer-churn-prediction  
+📁 sql-data-analysis      
+├── 🛍 customer-purchase-analysis      
+├── 💳 customer-churn-prediction  
